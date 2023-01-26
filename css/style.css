@@ -1,0 +1,51 @@
+p{
+  color: #1eb91a;
+  font-family: Dialog;
+  font-size: 18px;
+  font-synthesis-style: initial;
+  mso-generic-font-family: script;
+  font-style: unset;
+
+
+
+}
+button{
+  color: red;
+  padding: 15px;
+  font-size: 16px;
+  background-color: #b3c41d;
+  border: 0;
+  text-align: center;
+  margin: 20px;
+}
+body{
+  background-color: cyan;
+}
+ div {
+  background-color: cyan;
+  opacity: 0.3;
+}
+td,th{
+  border: 2px solid red;
+  font-family: "Noto Serif CJK SC";
+  padding: 10px;
+  text-align: center;
+  background-color: #b3c41d;
+  -o-background-image: url("img/squidgmae.jpeg");
+}
+table{
+  width: 90%;
+  border-collapse: collapse;
+  margin: 10px;
+}
+List,ul{
+  font-family: "DejaVu Serif";
+  background-color: #b42424;
+  text-align: center;
+  font-size: medium;
+}
+List, ol{
+  text-align: left;
+  background-color: #b3c41d;
+  font-style: italic;
+}
